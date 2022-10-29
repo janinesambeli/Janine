@@ -1,0 +1,41 @@
+.section {
+  min-height: 100vh;
+  padding: 20vh 60px;
+}
+
+.my-container {
+  min-width: 1160px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section-2 {
+  min-height: 100vh;
+  background-color: #70c2eb;
+}
+
+.my-container-2 {
+  max-width: 1160px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.text-field {
+  max-width: 30%;
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+.text-field-2 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 12px;
+  border: 1px solid #000;
+}
